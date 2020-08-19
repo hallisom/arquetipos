@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "116692747391",
+    "firebase_url": "https://taxi-5f0ed.firebaseio.com",
+    "project_id": "taxi-5f0ed",
+    "storage_bucket": "taxi-5f0ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116692747391:android:35061b22cc63e8efd0ab4a",
+        "android_client_info": {
+          "package_name": "com.maps.taxi.taxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116692747391-frndj1a7pde9n0m79efkao19v01eekd3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maps.taxi.taxi",
+            "certificate_hash": "d6e35bf9f5294af8467d2ca6e2ef84b10cb4158c"
+          }
+        },
+        {
+          "client_id": "116692747391-jprgvl544c7d9majg59krtvueaakpsgl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3FE1GZN0NQjUgdNWOuRc_SVUx0bGehr10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116692747391-jprgvl544c7d9majg59krtvueaakpsgl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
